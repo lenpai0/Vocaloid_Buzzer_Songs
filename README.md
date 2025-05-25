@@ -21,7 +21,15 @@ Pay attention to polarity marking on the Piezo buzzer. Wire positive side to pin
 
 
 ## How to use
-Download the folder of the song you want. Make sure you have both the Arduino .ino and pitch.h file in the same folder. Upload the code to the Arduino board and push the button to play the melody.
+Download the folder of the song you want. Make sure you have both the Arduino .ino and pitch.h files in the same folder. 
+
+![image](https://github.com/user-attachments/assets/6edb2829-7ec0-4759-a8be-e283baf443e4)
+
+
+![image](https://github.com/user-attachments/assets/4a9d3807-09e2-4423-a9ef-28cadf7ec745)
+
+
+Upload the code to the Arduino board and push the button to play the melody.
 
 If it doesn't play, double check the wiring. Are all the ground connected?
 
