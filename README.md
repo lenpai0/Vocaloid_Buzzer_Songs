@@ -1,4 +1,6 @@
 # Vocaloid Buzzer Songs
+<img width="503" alt="thumbnail v2" src="https://github.com/user-attachments/assets/b613e803-de9a-4d05-a022-0942785232c5" />
+
 A collection of short vocaloid chorus buzzer code using a piezo buzzer and push button. I took vocaloid song piano covers that I like (and allowed to use) and handtyped each note to play on the buzzer. I also used these for my "Guess the vocaloid song" on [tiktok](https://www.tiktok.com/@lenpai0). 
 
 This code will work for any Arduino board. It mainly uses Arduino's tone() function meaning boards like ESP32 aren't compatible.
